@@ -159,4 +159,4 @@ hasil program tersebut
 
 dan ini hasil flowchart nya
 
-![Screenshot 2024-11-14 221252](https://github.com/user-attachments/assets/90767615-f51a-4ddb-ad43-11af4589169c)
+![screnshot images 2024-11-14 pukul 22 10 27_fc862e2d](https://github.com/user-attachments/assets/4c457b90-a1c1-4801-b0f3-e77b21dd6411)
