@@ -46,3 +46,7 @@ print(list_a)
 
 
 ````
+DAN HASIL PROGRAM TERSEBUT
+
+![image](https://github.com/user-attachments/assets/513a891b-0f79-4b90-997a-629ecc1c9bd8)
+
